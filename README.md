@@ -12,5 +12,5 @@ Each car has a Neural Network with 7 inputs, 1 hidden layer and 2 outputs, the w
 
 The following libraries are required:
 
-- [PyGame](http://www.numpy.org/)
+- [PyGame](https://github.com/pygame/pygame)
 - [Numpy](http://www.numpy.org/)
