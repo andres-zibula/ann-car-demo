@@ -1,8 +1,10 @@
 # Artificial Neural Networks Cars Demo
 
+![](https://github.com/andres-zibula/project-images/blob/master/ann_car_demo/ann_car_demo.gif)
+
 ## Video demo
 
-https://youtu.be/vvvgfELcdqg
+[YouTube](https://youtu.be/vvvgfELcdqg)
 
 ## Synopsis
 
